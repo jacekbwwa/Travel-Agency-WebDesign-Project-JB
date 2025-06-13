@@ -2,7 +2,7 @@
 ## Travel Agency Web Project built in grids layout with Responsive Web Design. 
 
 ## Live Link
-https://jacekbwwa.github.io/TravelAgencyWebDesignProjectJB/index.html
+https://jacekbwwa.github.io/Travel-Agency-WebDesign-Project-JB/index.html
 
 ## Description
 ### Structure: The project is split to 5 pages:
